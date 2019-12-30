@@ -1,0 +1,1 @@
+package com.sxw.demo.xservice;/** * 接口 */public interface ITestXService {    String listClassName();}
